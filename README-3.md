@@ -154,7 +154,7 @@ web: gunicorn job_board_project.app:app
 
 ## License
 
-This project does not currently specify a license. Contact the repository owner for usage permissions.
+This project does not currently have a license. Contact the repository owner for usage permissions.
 
 ---
 
